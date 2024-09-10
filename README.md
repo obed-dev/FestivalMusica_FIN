@@ -30,3 +30,30 @@ To download and run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/obed-dev/FestivalMusica_FIN.git
+
+2. Open in the index.html file in your preferred browser
+
+## Usage
+This project is a static website, so no backend server is required. Simply open the HTML file in your browser to view the full site.
+
+
+## Screenshots
+Desktop View
+
+
+![festival desktop view](https://github.com/user-attachments/assets/bd38ae0b-de97-49c4-bbb5-31c935dc3957)
+
+
+
+
+Mobile View 
+
+
+
+
+![festival screen shot mobile](https://github.com/user-attachments/assets/92d0daff-d5fe-407c-9230-6f583a83f345)
+
+
+
+
+
